@@ -22,23 +22,25 @@ You can copy paste code into your AppScript of your Google Sheet, click deploy, 
 
 This function creates a new table. The post body should include the `tableName` and `headers` (which should be an array).
 
-
+```
 {
     "action": "createTable"
     "tableName": "Name of The table",
     "headers": [], // Array of column headers
 }
+```
 
 ### addRows `POST`
 
 This function adds rows to a specified table. The content should be an array of arrays.
 
-
+```
 {
     "action": "addRows"
     "tableName": "Name of The table",
     "content": [ [ ] ], // Array of arrays of data
 }
+```
 
 ## Code Structure
 
