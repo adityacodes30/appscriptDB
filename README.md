@@ -7,6 +7,8 @@ This project is an Appscript that provides a basic database functionality using 
 - Create Table
 - Add Rows
 
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/31980013-67a4199a-d1d6-4dd2-b807-7a9a30086cf4?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D31980013-67a4199a-d1d6-4dd2-b807-7a9a30086cf4%26entityType%3Dcollection%26workspaceId%3D5bbf4e11-4fa3-45d5-97d0-9bcdb2ab6931)
+
 These functionalities are currently implemented. Other features are a work in progress.
 
 ## Goal
